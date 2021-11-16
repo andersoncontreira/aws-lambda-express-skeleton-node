@@ -17,7 +17,7 @@
     "standard": "^14.1.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.233.1",
+    "aws-sdk": "^2.814.0",
     "aws-serverless-express": "^3.3.5",
     "axios": "^0.21.1",
     "body-parser": "^1.18.2",
